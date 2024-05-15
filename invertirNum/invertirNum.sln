@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invertirNum", "invertirNum\invertirNum.csproj", "{E7A5E01F-515E-4872-A12C-A10DC29E7328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7A5E01F-515E-4872-A12C-A10DC29E7328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A5E01F-515E-4872-A12C-A10DC29E7328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A5E01F-515E-4872-A12C-A10DC29E7328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A5E01F-515E-4872-A12C-A10DC29E7328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD15DF1F-50C8-4646-88AE-1892B01B7CFB}
+	EndGlobalSection
+EndGlobal

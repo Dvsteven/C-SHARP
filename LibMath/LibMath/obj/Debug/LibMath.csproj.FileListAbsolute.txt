@@ -1,0 +1,7 @@
+C:\Users\BB8918\source\repos\LibMath\LibMath\bin\Debug\LibMath.exe.config
+C:\Users\BB8918\source\repos\LibMath\LibMath\bin\Debug\LibMath.exe
+C:\Users\BB8918\source\repos\LibMath\LibMath\bin\Debug\LibMath.pdb
+C:\Users\BB8918\source\repos\LibMath\LibMath\obj\Debug\LibMath.csproj.AssemblyReference.cache
+C:\Users\BB8918\source\repos\LibMath\LibMath\obj\Debug\LibMath.csproj.CoreCompileInputs.cache
+C:\Users\BB8918\source\repos\LibMath\LibMath\obj\Debug\LibMath.exe
+C:\Users\BB8918\source\repos\LibMath\LibMath\obj\Debug\LibMath.pdb

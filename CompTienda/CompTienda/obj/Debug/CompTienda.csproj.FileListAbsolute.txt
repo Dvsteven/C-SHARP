@@ -1,0 +1,7 @@
+C:\Users\BB8918\source\repos\CompTienda\CompTienda\bin\Debug\CompTienda.exe.config
+C:\Users\BB8918\source\repos\CompTienda\CompTienda\bin\Debug\CompTienda.exe
+C:\Users\BB8918\source\repos\CompTienda\CompTienda\bin\Debug\CompTienda.pdb
+C:\Users\BB8918\source\repos\CompTienda\CompTienda\obj\Debug\CompTienda.csproj.AssemblyReference.cache
+C:\Users\BB8918\source\repos\CompTienda\CompTienda\obj\Debug\CompTienda.csproj.CoreCompileInputs.cache
+C:\Users\BB8918\source\repos\CompTienda\CompTienda\obj\Debug\CompTienda.exe
+C:\Users\BB8918\source\repos\CompTienda\CompTienda\obj\Debug\CompTienda.pdb

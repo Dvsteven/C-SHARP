@@ -1,0 +1,7 @@
+C:\Users\BB8918\source\repos\Mayorque\Mayorque\bin\Debug\Mayorque.exe.config
+C:\Users\BB8918\source\repos\Mayorque\Mayorque\bin\Debug\Mayorque.exe
+C:\Users\BB8918\source\repos\Mayorque\Mayorque\bin\Debug\Mayorque.pdb
+C:\Users\BB8918\source\repos\Mayorque\Mayorque\obj\Debug\Mayorque.csproj.AssemblyReference.cache
+C:\Users\BB8918\source\repos\Mayorque\Mayorque\obj\Debug\Mayorque.csproj.CoreCompileInputs.cache
+C:\Users\BB8918\source\repos\Mayorque\Mayorque\obj\Debug\Mayorque.exe
+C:\Users\BB8918\source\repos\Mayorque\Mayorque\obj\Debug\Mayorque.pdb

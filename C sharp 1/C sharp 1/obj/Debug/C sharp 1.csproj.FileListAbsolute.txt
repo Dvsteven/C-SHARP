@@ -1,0 +1,10 @@
+C:\Users\BB8918\source\repos\C sharp 1\C sharp 1\bin\Debug\C sharp 1.exe.config
+C:\Users\BB8918\source\repos\C sharp 1\C sharp 1\bin\Debug\C sharp 1.exe
+C:\Users\BB8918\source\repos\C sharp 1\C sharp 1\bin\Debug\C sharp 1.pdb
+C:\Users\BB8918\source\repos\C sharp 1\C sharp 1\obj\Debug\C sharp 1.csproj.AssemblyReference.cache
+C:\Users\BB8918\source\repos\C sharp 1\C sharp 1\obj\Debug\C_sharp_1.Properties.Resources.resources
+C:\Users\BB8918\source\repos\C sharp 1\C sharp 1\obj\Debug\C sharp 1.csproj.GenerateResource.cache
+C:\Users\BB8918\source\repos\C sharp 1\C sharp 1\obj\Debug\C sharp 1.csproj.CoreCompileInputs.cache
+C:\Users\BB8918\source\repos\C sharp 1\C sharp 1\obj\Debug\C sharp 1.exe
+C:\Users\BB8918\source\repos\C sharp 1\C sharp 1\obj\Debug\C sharp 1.pdb
+C:\Users\BB8918\source\repos\C sharp 1\C sharp 1\obj\Debug\C_sharp_1.Form1.resources

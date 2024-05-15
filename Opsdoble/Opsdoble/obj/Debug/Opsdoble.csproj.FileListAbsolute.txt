@@ -1,0 +1,7 @@
+C:\Users\BB8918\source\repos\Opsdoble\Opsdoble\bin\Debug\Opsdoble.exe.config
+C:\Users\BB8918\source\repos\Opsdoble\Opsdoble\bin\Debug\Opsdoble.exe
+C:\Users\BB8918\source\repos\Opsdoble\Opsdoble\bin\Debug\Opsdoble.pdb
+C:\Users\BB8918\source\repos\Opsdoble\Opsdoble\obj\Debug\Opsdoble.csproj.AssemblyReference.cache
+C:\Users\BB8918\source\repos\Opsdoble\Opsdoble\obj\Debug\Opsdoble.csproj.CoreCompileInputs.cache
+C:\Users\BB8918\source\repos\Opsdoble\Opsdoble\obj\Debug\Opsdoble.exe
+C:\Users\BB8918\source\repos\Opsdoble\Opsdoble\obj\Debug\Opsdoble.pdb

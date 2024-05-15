@@ -1,0 +1,7 @@
+C:\Users\BB8918\source\repos\invertirNum\invertirNum\bin\Debug\invertirNum.exe.config
+C:\Users\BB8918\source\repos\invertirNum\invertirNum\bin\Debug\invertirNum.exe
+C:\Users\BB8918\source\repos\invertirNum\invertirNum\bin\Debug\invertirNum.pdb
+C:\Users\BB8918\source\repos\invertirNum\invertirNum\obj\Debug\invertirNum.csproj.AssemblyReference.cache
+C:\Users\BB8918\source\repos\invertirNum\invertirNum\obj\Debug\invertirNum.csproj.CoreCompileInputs.cache
+C:\Users\BB8918\source\repos\invertirNum\invertirNum\obj\Debug\invertirNum.exe
+C:\Users\BB8918\source\repos\invertirNum\invertirNum\obj\Debug\invertirNum.pdb

@@ -1,0 +1,7 @@
+C:\Users\BB8918\source\repos\Mayor3Num\Mayor3Num\bin\Debug\Mayor3Num.exe.config
+C:\Users\BB8918\source\repos\Mayor3Num\Mayor3Num\bin\Debug\Mayor3Num.exe
+C:\Users\BB8918\source\repos\Mayor3Num\Mayor3Num\bin\Debug\Mayor3Num.pdb
+C:\Users\BB8918\source\repos\Mayor3Num\Mayor3Num\obj\Debug\Mayor3Num.csproj.AssemblyReference.cache
+C:\Users\BB8918\source\repos\Mayor3Num\Mayor3Num\obj\Debug\Mayor3Num.csproj.CoreCompileInputs.cache
+C:\Users\BB8918\source\repos\Mayor3Num\Mayor3Num\obj\Debug\Mayor3Num.exe
+C:\Users\BB8918\source\repos\Mayor3Num\Mayor3Num\obj\Debug\Mayor3Num.pdb

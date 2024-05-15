@@ -1,0 +1,10 @@
+C:\Users\BB8918\source\repos\MiniLogIn\MiniLogIn\bin\Debug\MiniLogIn.exe.config
+C:\Users\BB8918\source\repos\MiniLogIn\MiniLogIn\bin\Debug\MiniLogIn.exe
+C:\Users\BB8918\source\repos\MiniLogIn\MiniLogIn\bin\Debug\MiniLogIn.pdb
+C:\Users\BB8918\source\repos\MiniLogIn\MiniLogIn\obj\Debug\MiniLogIn.csproj.AssemblyReference.cache
+C:\Users\BB8918\source\repos\MiniLogIn\MiniLogIn\obj\Debug\MiniLogIn.Form1.resources
+C:\Users\BB8918\source\repos\MiniLogIn\MiniLogIn\obj\Debug\MiniLogIn.Properties.Resources.resources
+C:\Users\BB8918\source\repos\MiniLogIn\MiniLogIn\obj\Debug\MiniLogIn.csproj.GenerateResource.cache
+C:\Users\BB8918\source\repos\MiniLogIn\MiniLogIn\obj\Debug\MiniLogIn.csproj.CoreCompileInputs.cache
+C:\Users\BB8918\source\repos\MiniLogIn\MiniLogIn\obj\Debug\MiniLogIn.exe
+C:\Users\BB8918\source\repos\MiniLogIn\MiniLogIn\obj\Debug\MiniLogIn.pdb

@@ -1,0 +1,7 @@
+C:\Users\BB8918\source\repos\FormsSalida\FormsSalida\bin\Debug\FormsSalida.exe.config
+C:\Users\BB8918\source\repos\FormsSalida\FormsSalida\bin\Debug\FormsSalida.exe
+C:\Users\BB8918\source\repos\FormsSalida\FormsSalida\bin\Debug\FormsSalida.pdb
+C:\Users\BB8918\source\repos\FormsSalida\FormsSalida\obj\Debug\FormsSalida.csproj.AssemblyReference.cache
+C:\Users\BB8918\source\repos\FormsSalida\FormsSalida\obj\Debug\FormsSalida.csproj.CoreCompileInputs.cache
+C:\Users\BB8918\source\repos\FormsSalida\FormsSalida\obj\Debug\FormsSalida.exe
+C:\Users\BB8918\source\repos\FormsSalida\FormsSalida\obj\Debug\FormsSalida.pdb
